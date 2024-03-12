@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Portail Commercial",
+        "description": "Un portail pour le commerce",
+        "logo": "portailcommercial.png",
+        "url": "https://portail-commercial.maty.com/",
+        "services": [
+            {
+                "name": "Click & collect",
+                "description": "Cliquer et collecter"
+            }
+        ]
+    },
+    {
+        "name": "Portail Produit",
+        "description": "Un portail pour les produits",
+        "logo": "portailproduit.png",
+        "url": "https://portailproduit.maty.local/",
+        "services": [
+            {
+                "name": "PIM",
+                "description": "PIM - Gestion de l'intégration des produits"
+            },
+            {
+                "name": "Échantillonnage",
+                "description": "Gestion des échantillons de sélection et conformité."
+            },
+            {
+                "name": "Personnalisation",
+                "description": "Gestion de la personnalisation produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            }
+        ]
+    },
+    {
+        "name": "MATY.COM",
+        "description": "Site web",
+        "logo": "matycom.png",
+        "url": "https://www.maty.com",        
+        "services": [
+            {
+                "name": "PIM",
+                "description": "PIM - Gestion de l'intégration des produits"
+            },
+            {
+                "name": "Échantillonnage",
+                "description": "Gestion des échantillons de sélection et conformité."
+            },
+            {
+                "name": "Personnalisation",
+                "description": "Gestion de la personnalisation produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            }
+        ]
+    },
+    {
+        "name": "Annuaire",
+        "description": "Annuaire",
+        "logo": "annuaire.png",
+        "url": "https://annuaire.maty.com/",
+        "services": [
+            {
+                "name": "PIM",
+                "description": "PIM - Gestion de l'intégration des produits"
+            },
+            {
+                "name": "Échantillonnage",
+                "description": "Gestion des échantillons de sélection et conformité."
+            },
+            {
+                "name": "Personnalisation",
+                "description": "Gestion de la personnalisation produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            },
+            {
+                "name": "Retour produits",
+                "description": "Tableau de bord des retours produits."
+            }
+        ]
+    }
+]
